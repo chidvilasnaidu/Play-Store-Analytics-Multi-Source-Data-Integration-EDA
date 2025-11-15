@@ -9,6 +9,9 @@ This project was built as part of the Innomatics Research Labs Hackathon. The ch
 This project was developed as part of the Innomatics Research Labs Hackathon.  
 The objective was to integrate datasets from **three different formats** (Excel, JSON, SQLite DB) into a **single unified dataset** and perform comprehensive **Exploratory Data Analysis (EDA)** on Google Play Store applications.
 
+## Copyright Notice:
+
+📄 Dataset used for educational purposes only. All rights reserved to respective owners 
 The workflow follows a complete real-world data pipeline:
 
 **Data Integration → Cleaning → Transformation → EDA → Insights**
@@ -144,7 +147,7 @@ Performed visual and statistical analysis to understand:
 - Improving visualization and storytelling skills  
 - Understanding category-level and sentiment-level insights  
 - Strengthening end-to-end data analytics workflow
-- 
+  
 
 ## Conclusion
 This project enhanced my ability to work with heterogeneous datasets, clean noisy data, and derive meaningful insights using analytical and visualization skills.  
