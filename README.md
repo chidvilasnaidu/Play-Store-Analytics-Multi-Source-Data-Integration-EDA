@@ -143,22 +143,8 @@ Performed visual and statistical analysis to understand:
 - Conducting sentiment-based app analysis  
 - Improving visualization and storytelling skills  
 - Understanding category-level and sentiment-level insights  
-- Strengthening end-to-end data analytics workflow  
-
----
-
-## Project Name Suggestions
-- Play Store Unified Analytics  
-- Google Play Data Integration & EDA  
-- PlayStore360 – Multi-Source Data Analysis  
-- App Insights Hub  
-
----
-
-## GitHub Link
-(Add your repository link here)
-
----
+- Strengthening end-to-end data analytics workflow
+- 
 
 ## Conclusion
 This project enhanced my ability to work with heterogeneous datasets, clean noisy data, and derive meaningful insights using analytical and visualization skills.  
