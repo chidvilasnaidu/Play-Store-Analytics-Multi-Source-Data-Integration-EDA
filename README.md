@@ -12,6 +12,8 @@ The objective was to integrate datasets from **three different formats** (Excel,
 ## Copyright Notice:
 
 📄 Dataset used for educational purposes only. All rights reserved to respective owners 
+
+---
 The workflow follows a complete real-world data pipeline:
 
 **Data Integration → Cleaning → Transformation → EDA → Insights**
